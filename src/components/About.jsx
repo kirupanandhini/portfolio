@@ -24,11 +24,10 @@ export default function About() {
               This year, I started working as a <b>Teaching Assistant</b> for a
               course on 'System and Software Tools'. This will also be my second
               year working as the
-              <b> Director of Recognition and Partnerships</b> for RCSA
-              (Residential Community Student Association), which involves
-              student advocacy, program management, and leadership development.
-              Outside of class and work, I read, journal, and arrange music for
-              my acapella group!
+              <b> Director of Recognition and Partnerships</b> for Residential
+              Life, which involves student advocacy, program management, and
+              leadership development. Outside of class and work, I read,
+              journal, and arrange music for my acapella group!
             </p>
           </div>
         </div>

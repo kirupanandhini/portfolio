@@ -15,8 +15,8 @@ const Home = () => {
         </h2> */}
         <p className="text-[#8892b0] py-4 max-w-[700px]">
           Hi! I'm a <b>3rd year, Computer Science Major</b> at the University of
-          Washington. I switched into the computer science my freshman year
-          because of my professors and peers who made computer science
+          Washington. I switched into the computer science (CS) major my
+          freshman year because of my professors and peers who made CS
           easy-to-learn and accessible. My favorite topics in CS include{" "}
           <b>proofs, computational logic, and Java!</b>.
         </p>
