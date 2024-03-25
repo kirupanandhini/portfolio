@@ -20,9 +20,9 @@ export default function Experience() {
           // style={{ backgroundImage: `url(${WorkImg})` }}
           className="grid sm:grid-cols-2 md:grid-cols-3 gap-4"
         >
-          <div className="shadow-lg shadow-[#040c16] bg-[#8380B6] hover:scale-110 duration-500 opacity-80 group container rounded-md flex justify-center items-center mx-auto content-div">
+         {/* <div className="shadow-lg shadow-[#040c16] bg-[#8380B6] hover:scale-110 duration-500 opacity-80 group container rounded-md flex justify-center items-center mx-auto content-div"> */}
             {/* Hover effects */}
-            <div className=" flex-column">
+            {/* <div className=" flex-column">
               <span className="text-2xl font-bold text-white tracking-wider">
                 Acadocs
               </span>
@@ -34,15 +34,15 @@ export default function Experience() {
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Summary of Work
                   </button>
-                </a>
+                </a> */}
                 {/* <a href="/">
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">
                     Reflections
                   </button>
                 </a> */}
-              </div>
+              {/* </div>
             </div>
-          </div>
+          </div>  */}
           <div className="shadow-lg shadow-[#040c16]  bg-[#571F4E] opacity-80 group hover:scale-110 duration-500 container rounded-md flex justify-center items-center mx-auto content-div">
             {/* Hover effects */}
             <div className="flex-column">
