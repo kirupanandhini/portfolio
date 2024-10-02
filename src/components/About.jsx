@@ -21,13 +21,12 @@ export default function About() {
           </div>
           <div>
             <p>
-              This year, I started working as a <b>Teaching Assistant</b> for a
-              course on 'System and Software Tools'. This will also be my second
-              year working as the
-              <b> Director of Recognition and Partnerships</b> for Residential
-              Life, which involves student advocacy, program management, and
-              leadership development. Outside of class and work, I read,
-              journal, and arrange music for my acapella group!
+              Over the summer, I worked on building tools for Machine Learning Model evaluation 
+              which I found super interesting! I've also worked as a <b>Teaching Assistant</b> for a
+              course on 'System and Software Tools'. Aside from that, I've been working in Residential 
+              Life for 3 years focusing on student advocacy for residents on campus. This year, I serve as the 
+              student advisor for the team and am looking forward to grow in leadership there. Outside of class and work, I read,
+              journal, and play/arrange music!
             </p>
           </div>
         </div>

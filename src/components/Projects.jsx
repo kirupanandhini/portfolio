@@ -14,7 +14,7 @@ export default function Projects() {
           </p>
           <p className="py-6">
             Here's a description of my projects. To find more information, check
-            out my Githubt!
+            out my Github!
           </p>
         </div>
 
